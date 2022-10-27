@@ -1,7 +1,7 @@
 package HomeWork;
 
 import java.util.Scanner;
-
+// Task8
 public class Part1Task8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
