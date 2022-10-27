@@ -9,3 +9,4 @@ public class Part1Task8 {
         System.out.println(n / 30.0);
     }
 }
+//mycommit
